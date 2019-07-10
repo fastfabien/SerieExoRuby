@@ -7,4 +7,4 @@ gg = "#"
 for i in 1..floor
 	pyramide.push(gg*i)
 end
-puts pyramideu
+puts pyramide
